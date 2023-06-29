@@ -1,7 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "src",
-        "D_z_1"
+        "D_z_1",
+        "D_z_2"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
